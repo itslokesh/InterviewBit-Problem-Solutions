@@ -1,4 +1,4 @@
-public class Solution {
+public class MinStepsInInfiniteGrid {
     public int coverPoints(ArrayList<Integer> A, ArrayList<Integer> B) {
         int dist=0;
         for(int i=1;i<A.size();i++){
